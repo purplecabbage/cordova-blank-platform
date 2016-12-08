@@ -18,10 +18,9 @@
   },
   "author": "Apache Software Foundation",
   "license": "Apache-2.0",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {
+    "q": "^1.4.1"
   },
-  "bundledDependencies": [
-  ]
+  "bundledDependencies": []
 }
